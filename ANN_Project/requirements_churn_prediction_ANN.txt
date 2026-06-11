@@ -1,0 +1,9 @@
+# requirements for churn_prediction_ANN__1_.ipynb
+
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+torchvision
+optuna
