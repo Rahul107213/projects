@@ -1,0 +1,11 @@
+# requirements for CNN_Project.ipynb
+
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+torchvision
+optuna
+tqdm
